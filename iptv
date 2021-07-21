@@ -82,20 +82,21 @@ http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", GO SHOP
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/b14bd09ec1e428679a165.png" group-title="INDONESIA", Channel 5
 http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/313e16f0-c2ad-11eb-bb8f-1b7a9bb441b0/1693796/307488567.jpg" group-title="INDONESIA", RCTI
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_665_720p/index.m3u8
+https://video.detik.com/rcti/smil:rcti.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", SCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_204_720p/index.m3u8
+https://video.detik.com/sctv/smil:sctv.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Indosiar
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", NET TV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", MNCTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_870_720p/index.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TRANSTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_733_720p/index.m3u8
+https://video.detik.com/transtv/smil:mnctv.smil/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TRANS7
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", GTV
 https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Kompas TV
