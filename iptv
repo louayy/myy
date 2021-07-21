@@ -83,56 +83,66 @@ http://185.180.221.194:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="ASTRO", GO SHOP
 https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 
-#EXTINF: -1 tvg-logo="https://telegra.ph/file/b14bd09ec1e428679a165.png" group-title="INDONESIA", Channel 5
-http://185.180.221.194:8278/streams/d/Channel5/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/313e16f0-c2ad-11eb-bb8f-1b7a9bb441b0/1693796/307488567.jpg" group-title="INDONESIA", RCTI
-https://video.detik.com/rcti/smil:rcti.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", SCTV
-https://video.detik.com/sctv/smil:sctv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Indosiar
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_205_720p/index.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", NET TV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_875_720p/index.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", MNCTV
-https://video.detik.com/transtv/smil:mnctv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", GTV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_778_720p/index.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Kompas TV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_874_720p/index.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", Jak TV
-https://znjjprwzgeyyp.vidio.com/hls-p/ingest_5415_720p/index.m3u8#EXTM3U
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", JAK TV
-https://dl.dropboxusercontent.com/s/ctdm9c9zw2uz35j/jaktv.m3u8?dl=0
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", RCTI
-https://dl.dropboxusercontent.com/s/2bim36igz32bgpg/rcti.m3u8?dl=0
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", RCTI (BACKUP 1)
-https://moegi.akamaized.net/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=7-mp4a_64000=2.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", POP MUSIK
-http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", KOMPAS TV
-https://dl.dropboxusercontent.com/s/xzs1vtcvsgkxksc/kompastv.m3u8?dl=0
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", METRO TV
-https://dl.dropboxusercontent.com/s/cat0n2r1qob59ag/metrotv.m3u8?dl=0
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", METRO TV (BACKUP 1)
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1354494356_b1492000_sleng.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", SCTV
-https://dl.dropboxusercontent.com/s/4zdqzz1ijlee1zc/sctvhd.m3u8?dl=0
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", DAAI TV
-https://dl.dropboxusercontent.com/s/sbqajs5q2jh5cys/daaitv.m3u8?dl=0
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", MALEO
-http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1537200=6-mp4a_64000=2.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", CNBC INDONESIA
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="INDONESIA", TVRI
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+#EXTINF:-1 tvg-id="NetTV" tvg-name="NetTV" group-title="INDONESIA", NET. 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/net/playlist.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="Indosiar" group-title="INDONESIA", INDOSIAR 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/indosiar/playlist.m3u8
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" group-title="INDONESIA", SCTV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/sctv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="INDONESIA", TRANS 7 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/trans7/playlist.m3u8
+#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="INDONESIA", TRANS TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/transtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNNIndonesia" tvg-name="CNNIndonesia" group-title="INDONESIA", CNN Indonesia 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/cnnid/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBCIndonesia" tvg-name="CNBCIndonesia" group-title="INDONESIA", CNBC Indonesia 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/cnbcid/playlist.m3u8
+#EXTINF:-1 tvg-id="JakartaGlobeNews" tvg-name="JakartaGlobeNews" group-title="INDONESIA", Jakarta Globe News 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/jktglobenews/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" group-title="INDONESIA", JTV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/jtv/playlist.m3u8
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" group-title="INDONESIA", JawaposTV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/jawapostv/playlist.m3u8
+#EXTINF:-1 tvg-id="JAKTV" tvg-name="JAKTV" group-title="INDONESIA", JAK TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/jaktv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVOne" tvg-name="TVOne" group-title="INDONESIA", TVOne 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/tvone/playlist.m3u8
+#EXTINF:-1 tvg-id="KompasTv" tvg-name="KompasTv" group-title="INDONESIA", KOMPAS TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/kompas/playlist.m3u8
+#EXTINF:-1 tvg-ID="iNews" tvg-name="iNews" group-title="INDONESIA",iNews 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/inews/playlist.m3u8
+#EXTINF:-1 tvg-ID="MNCTV" tvg-name="MNC TV" group-title="INDONESIA",MNC TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/mnc/playlist.m3u8
+#EXTINF:-1 tvg-ID="GTV" group-title="INDONESIA",Global TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/gtv/playlist.m3u8
+#EXTINF:-1 tvg-ID="RCTI" tvg-name="RCTI HD" group-title="INDONESIA", RCTI 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/rcti/playlist.m3u8
+#EXTINF:-1 tvg-id="MetroTV" tvg-name="MetroTV" group-title="INDONESIA", METRO TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/metrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="BeritaSatu" tvg-name="BeritaSatu" group-title="INDONESIA", Berita Satu 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/beritasatu/playlist.m3u8
+#EXTINF:-1 tvg-ID="BeritaSatuWorld" group-title="INDONESIA",Berita Satu World 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/beritasatuworld/playlist.m3u8
+#EXTINF:-1 tvg-id="DaaiTv" tvg-name="DaaiTv" group-title="INDONESIA", DAAI TV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/daaitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel" tvg-name="MagnaChannel" group-title="INDONESIA", Magna Channel 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/magna/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" group-title="INDONESIA", RTV 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/rtv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRI" tvg-name="TVRI" group-title="INDONESIA", TVRI Nasional 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2abf7814e49.57277324/publics/publics/tvri/playlist.m3u8
+#EXTINF:-1 tvg-id="HBOHD" tvg-name="HBOHD" group-title="INDONESIA", HBO HD 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2b0ee39bec3.22117732/publics/publics/hbohd/playlist.m3u8 
+#EXTINF:-1 tvg-id="HBOFAMILYHD" tvg-name="HBOFAMILYHD" group-title="INDONESIA", HBO Family HD 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2b0ee39bec3.22117732/publics/publics/hbofamhd/playlist.m3u8 
+#EXTINF:-1 tvg-id="HBOHITSHD" tvg-name="HBOHITSHD" group-title="INDONESIA", HBO Hits HD 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2b0ee39bec3.22117732/publics/publics/hbohitshd/playlist.m3u8  
+#EXTINF:-1 tvg-id="HBOSIGNATUREHD" tvg-name="HBOSIGNATUREHD" group-title="INDONESIA", HBO Signature HD 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2b0ee39bec3.22117732/publics/publics/hbosighd/playlist.m3u8 
+#EXTINF:-1 tvg-id="CINEMAXHD" tvg-name="CINEMAXHD" group-title="INDONESIA", Cinemax HD 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2b0ee39bec3.22117732/publics/publics/maxhd/playlist.m3u8 
+#EXTINF:-1 tvg-id="RED" tvg-name="RED" group-title="INDONESIA", RED by HBO HD 
+http://cdn.roll.my.id:80/manifest/vvvvv_60f2b0ee39bec3.22117732/publics/publics/redhd/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSZbiQAAjiVaqQvljUKT7MT8C6b-8DDxJDaA&usqp=CAU" group-title="SPORT", Astro Supersport 1 HD
 http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
