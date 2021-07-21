@@ -1,7 +1,7 @@
 #EXTM3U 
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487226.jpg" group-title="MALAYSIA", RTM1
 http://185.180.221.194:8278/streams/d/TV1/playlist.m3u8
-#EXTINF:-1, group-title="Malaysia", (MY) TV2
+#EXTINF: -1 tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="MALAYSIA", RTM2
 http://185.180.221.194:8278/streams/d/TV2/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/4d99615db2bb644575214.png" group-title="MALAYSIA", TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
@@ -12,8 +12,6 @@ https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487229.png" group-title="MALAYSIA", NTV7/DIDIKTV
 http://185.180.221.194:8278/streams/d/NTV7/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487230.png" group-title="MALAYSIA", 8TV
-http://185.180.221.194:8278/streams/d/TV8/playlist.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", 8TV BACKUP
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487231.png" group-title="MALAYSIA", TV9
 http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
@@ -21,8 +19,6 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487225.png" group-title="MALAYSIA", Hello
 hhttps://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", DIDIK TV
-http://50.7.161.82:8278/streams/d/Rtmntv7/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", TVS
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", IKIM
@@ -46,10 +42,10 @@ http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/fbd995d0-c098-11eb-97c8-3d36c960d834/1686664/305979919.png" group-title="ASTRO", Astro Citra HD
 http://185.180.221.194:8278/streams/d/Citra/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487192.png" group-title="ASTRO", ASTRO BOO HD
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487224.png" group-title="ASTRO", ASTRO AWANI HD
 http://185.180.221.194:8278/streams/d/Awani/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487192.png" group-title="ASTRO", ASTRO BOO HD
+http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/e424bfbee7d21fa51ea48.png" group-title="ASTRO", Drama Sangat
 http://50.7.161.82:8278/streams/d/Dsangat/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/dc4eabf8a8726a1f657da.png" group-title="ASTRO", Naura HD CH109
