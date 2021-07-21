@@ -16,9 +16,9 @@ http://185.180.221.194:8278/streams/d/TV9/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/50039400-bd37-11eb-9fd8-51232026019f/1670148/303748184.png" group-title="MALAYSIA", TV Alhijrah
 http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/2d8acbe0-c28e-11eb-b59a-55556d1f59c2/1693358/307487225.png" group-title="MALAYSIA", Hello
-hhttps://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-#EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", TVS
-https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_03.m3u8
+https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
+#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://tvstv.my/wp-content/uploads/2020/09/cropped-TVS-Logo-Square2.jpg",TVS 
+https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", GO SHOP
