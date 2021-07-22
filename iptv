@@ -21,9 +21,9 @@ https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
 https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 #EXTINF: -1 tvg-logo="http://127.0.0.1/" group-title="MALAYSIA", IKIM
 http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-#EXTINF:-1 tvg-id=" " group-title="Malaysia" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop
+#EXTINF:-1 tvg-id=" " group-title="MALAYSIA" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw",Astro Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8
-#EXTINF:-1 xmltv-id="Go Shop Ruuma" tvg-id="Go Shop Ruuma" group-title="Malaysia" tvg-logo="https://www.goshop.com.my/static/icons/favicon.ico", ASTRO GO SHOP RUUMA 
+#EXTINF:-1 xmltv-id="Go Shop Ruuma" tvg-id="Go Shop Ruuma" group-title="MALAYSIA" tvg-logo="https://www.goshop.com.my/static/icons/favicon.ico", ASTRO GO SHOP RUUMA 
 https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8
 #EXTINF: -1 tvg-logo="https://telegra.ph/file/fcc1eeba026c62641871d.png" group-title="MALAYSIA", BERNAMA
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
